@@ -1,0 +1,432 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1592376724000)
++++ .idea/workspace.xml	(date 1592376724000)
+@@ -0,0 +1,364 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ChangeListManager">
++    <list default="true" id="f75dd482-b750-427f-9dbe-61ce924de939" name="Default Changelist" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/HelloKotlin.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/com/devcloud/leetcode/two_sum.kt" afterDir="false" />
++    </list>
++    <ignored path="$PROJECT_DIR$/out/" />
++    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FUSProjectUsageTrigger">
++    <session id="-1180666438">
++      <usages-collector id="statistics.lifecycle.project">
++        <counts>
++          <entry key="project.closed" value="3" />
++          <entry key="project.open.time.16" value="2" />
++          <entry key="project.open.time.2" value="1" />
++          <entry key="project.open.time.9" value="1" />
++          <entry key="project.opened" value="4" />
++        </counts>
++      </usages-collector>
++      <usages-collector id="statistics.file.extensions.open">
++        <counts>
++          <entry key="java" value="1" />
++          <entry key="kt" value="1" />
++        </counts>
++      </usages-collector>
++      <usages-collector id="statistics.file.types.open">
++        <counts>
++          <entry key="JAVA" value="1" />
++          <entry key="Kotlin" value="1" />
++        </counts>
++      </usages-collector>
++      <usages-collector id="statistics.file.extensions.edit">
++        <counts>
++          <entry key="java" value="90" />
++          <entry key="kt" value="481" />
++        </counts>
++      </usages-collector>
++      <usages-collector id="statistics.file.types.edit">
++        <counts>
++          <entry key="JAVA" value="90" />
++          <entry key="Kotlin" value="481" />
++        </counts>
++      </usages-collector>
++    </session>
++  </component>
++  <component name="FileEditorManager">
++    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/HelloKotlin.iml">
++          <provider selected="true" editor-type-id="text-editor" />
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/src/com/devcloud/leetcode/two_sum.kt">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="190">
++              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++    </leaf>
++  </component>
++  <component name="FindInProjectRecents">
++    <replaceStrings>
++      <replace />
++    </replaceStrings>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GradleLocalSettings">
++    <option name="projectSyncType">
++      <map>
++        <entry key="$USER_HOME$/IdeaProjects/halo" value="PREVIEW" />
++      </map>
++    </option>
++  </component>
++  <component name="IdeDocumentHistory">
++    <option name="CHANGED_PATHS">
++      <list>
++        <option value="$PROJECT_DIR$/src/com/devcloud/leetcode/two_sun.java" />
++        <option value="$PROJECT_DIR$/src/com/devcloud/leetcode/two_sum.kt" />
++      </list>
++    </option>
++  </component>
++  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
++  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
++  <component name="JsGulpfileManager">
++    <detection-done>true</detection-done>
++    <sorting>DEFINITION_ORDER</sorting>
++  </component>
++  <component name="ProjectFrameBounds">
++    <option name="y" value="23" />
++    <option name="width" value="1440" />
++    <option name="height" value="877" />
++  </component>
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectView">
++    <navigator proportions="" version="1">
++      <foldersAlwaysOnTop value="true" />
++    </navigator>
++    <panes>
++      <pane id="PackagesPane" />
++      <pane id="Scope" />
++      <pane id="ProjectPane">
++        <subPane>
++          <expand>
++            <path>
++              <item name="HelloKotlin" type="b2602c69:ProjectViewProjectNode" />
++              <item name="HelloKotlin" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="HelloKotlin" type="b2602c69:ProjectViewProjectNode" />
++              <item name="HelloKotlin" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="HelloKotlin" type="b2602c69:ProjectViewProjectNode" />
++              <item name="HelloKotlin" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
++            </path>
++          </expand>
++          <select />
++        </subPane>
++      </pane>
++    </panes>
++  </component>
++  <component name="PropertiesComponent">
++    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="aspect.path.notification.shown" value="true" />
++    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592364918007" />
++    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
++    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
++    <property name="project.structure.last.edited" value="Modules" />
++    <property name="project.structure.proportion" value="0.0" />
++    <property name="project.structure.side.proportion" value="0.39209726" />
++    <property name="settings.editor.selected.configurable" value="settings.github" />
++  </component>
++  <component name="RunDashboard">
++    <option name="ruleStates">
++      <list>
++        <RuleState>
++          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
++        </RuleState>
++        <RuleState>
++          <option name="name" value="StatusDashboardGroupingRule" />
++        </RuleState>
++      </list>
++    </option>
++  </component>
++  <component name="RunManager">
++    <configuration name="com.devcloud.leetcode.Two_sumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
++      <module name="HelloKotlin" />
++      <option name="VM_PARAMETERS" />
++      <option name="PROGRAM_PARAMETERS" />
++      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
++      <option name="ALTERNATIVE_JRE_PATH" />
++      <option name="PASS_PARENT_ENVS" value="true" />
++      <option name="MAIN_CLASS_NAME" value="com.devcloud.leetcode.Two_sumKt" />
++      <option name="WORKING_DIRECTORY" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Kotlin.com.devcloud.leetcode.Two_sumKt" />
++      </list>
++    </recent_temporary>
++  </component>
++  <component name="SvnConfiguration">
++    <configuration>$USER_HOME$/.subversion</configuration>
++  </component>
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="f75dd482-b750-427f-9dbe-61ce924de939" name="Default Changelist" comment="" />
++      <created>1591756933777</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1591756933777</updated>
++      <workItem from="1591756940286" duration="3123000" />
++      <workItem from="1591838517853" duration="7000" />
++      <workItem from="1591845286456" duration="783000" />
++      <workItem from="1592362171401" duration="2172000" />
++    </task>
++    <servers />
++  </component>
++  <component name="TimeTrackingManager">
++    <option name="totallyTimeSpent" value="6085000" />
++  </component>
++  <component name="ToolWindowManager">
++    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
++    <layout>
++      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2167382" />
++      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
++      <window_info id="Designer" order="2" />
++      <window_info id="Image Layers" order="3" />
++      <window_info id="Capture Tool" order="4" />
++      <window_info id="UI Designer" order="5" />
++      <window_info id="Favorites" order="6" side_tool="true" />
++      <window_info anchor="bottom" id="Message" order="0" />
++      <window_info anchor="bottom" id="Find" order="1" />
++      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
++      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
++      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
++      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
++      <window_info anchor="bottom" id="TODO" order="6" />
++      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299363" />
++      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
++      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
++      <window_info anchor="bottom" id="Messages" order="10" weight="0.3299363" />
++      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
++      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
++      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
++      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
++      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
++      <window_info anchor="right" id="Palette" order="3" />
++      <window_info anchor="right" id="Capture Analysis" order="4" />
++      <window_info anchor="right" id="Maven Projects" order="5" />
++      <window_info anchor="right" id="SciView" order="6" />
++      <window_info anchor="right" id="Database" order="7" />
++      <window_info anchor="right" id="Palette&#9;" order="8" />
++      <window_info anchor="right" id="Theme Preview" order="9" />
++    </layout>
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="1" />
++  </component>
++  <component name="VcsContentAnnotationSettings">
++    <option name="myLimit" value="2678400000" />
++  </component>
++  <component name="editorHistoryManager">
++    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Library.kt">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="167">
++          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/HelloKotlin.iml">
++      <provider selected="true" editor-type-id="text-editor" />
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/com/devcloud/leetcode/two_sum.kt">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="190">
++          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
++        </state>
++      </provider>
++    </entry>
++  </component>
++  <component name="masterDetails">
++    <states>
++      <state key="ArquillianSettingsConfigurable.UI">
++        <settings>
++          <splitter-proportions>
++            <option name="proportions">
++              <list>
++                <option value="0.39209726" />
++              </list>
++            </option>
++          </splitter-proportions>
++        </settings>
++      </state>
++      <state key="ArtifactsStructureConfigurable.UI">
++        <settings>
++          <artifact-editor />
++          <splitter-proportions>
++            <option name="proportions">
++              <list>
++                <option value="0.2" />
++              </list>
++            </option>
++          </splitter-proportions>
++        </settings>
++      </state>
++      <state key="FacetStructureConfigurable.UI">
++        <settings>
++          <last-edited>No facets are configured</last-edited>
++          <splitter-proportions>
++            <option name="proportions">
++              <list>
++                <option value="0.2" />
++              </list>
++            </option>
++          </splitter-proportions>
++        </settings>
++      </state>
++      <state key="GlobalLibrariesConfigurable.UI">
++        <settings>
++          <splitter-proportions>
++            <option name="proportions">
++              <list>
++                <option value="0.39209726" />
++              </list>
++            </option>
++          </splitter-proportions>
++        </settings>
++      </state>
++      <state key="JdkListConfigurable.UI">
++        <settings>
++          <last-edited>1.8</last-edited>
++          <splitter-proportions>
++            <option name="proportions">
++              <list>
++                <option value="0.39209726" />
++              </list>
++            </option>
++          </splitter-proportions>
++        </settings>
++      </state>
++      <state key="ModuleStructureConfigurable.UI">
++        <settings>
++          <last-edited>HelloKotlin</last-edited>
++          <splitter-proportions>
++            <option name="proportions">
++              <list>
++                <option value="0.39209726" />
++                <option value="0.6" />
++              </list>
++            </option>
++          </splitter-proportions>
++        </settings>
++      </state>
++      <state key="ProjectJDKs.UI">
++        <settings>
++          <last-edited>1.8</last-edited>
++          <splitter-proportions>
++            <option name="proportions">
++              <list>
++                <option value="0.19662921" />
++              </list>
++            </option>
++          </splitter-proportions>
++        </settings>
++      </state>
++      <state key="ProjectLibrariesConfigurable.UI">
++        <settings>
++          <last-edited>KotlinJavaRuntime</last-edited>
++          <splitter-proportions>
++            <option name="proportions">
++              <list>
++                <option value="0.39209726" />
++              </list>
++            </option>
++          </splitter-proportions>
++        </settings>
++      </state>
++    </states>
++  </component>
++</project>
+\ No newline at end of file
+diff --git out/production/HelloKotlin/META-INF/HelloKotlin.kotlin_module out/production/HelloKotlin/META-INF/HelloKotlin.kotlin_module
+new file mode 100644
+index 0000000000000000000000000000000000000000..76de1432b6a261acb6bf9f98487ce18d8260474a
+GIT binary patch
+literal 52
+zc${NkU|?ooU|@t|E-oc5(d7JGy_D3l<edD{6uq3()RN@<lvE+kkn;Ta;?i925&+ZL
+B3|RmG
+
+diff --git out/production/HelloKotlin/com/devcloud/leetcode/Solution.class out/production/HelloKotlin/com/devcloud/leetcode/Solution.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..3bc8ec73a2ad76cc413afc98fd80efa3b030873a
+GIT binary patch
+literal 1933
+zc$|e)TTdHD6#iy?+4Xo$Oo$;1NeYFATVOG5-NfY5T%d7cFo{!A%0sl+6IfX9M&7m4
+zN@<JK{)S3@=|fbhJf<%RX`=|`rBeSz|48YX#WWWXwbnCd&YbzqIp3T!fBp0OO8_6?
+z3x-n_uVz+7v*LJ-s_6(3RJ^J%%bwE+Y|mA}7}9H2(=r{)T`^0`YoZdUh%m&1ho0Z4
+zF{ndJg~ISsfuX<X)mO|l5iHj&+x1P$b-lonIKDaO1#=C@nPP~#jhe4PBj@X0;MlIY
+z)~uPf8;H7VIcC8P>U7wy_$oL<S7lXH*5|FdRTE@U@LNC(gG0r41Dkq7Q<g9*Q^N~7
+zbfh?vXk%y(_bD~Uyl(lcv(^I@Y0Bli?b^XbhRBe#KZ*{Hb{yNY5Ai52u_Ed!Iw|F*
+z<upX;K11hFVYs-@XiCR%7#v;bCd?HPFq}Rh+Tr~w9Vc*7IzPpbdL3*SXfH#u;<<t3
+z_NMrnA#)Jsmpa}@e-eEdV9<iqy7zGIfzWYUCY8h>DT(U^nLwCtLB}vgWUQmKe$b#;
+z&mPX~VbPCaT)H+H6q}Gb4&a7?57-0NKz6{9#4suxw#IODKO9|5UDPOD3e1(I#%$t#
+zb@$?^kb+g)XXq^+Uc&^V$m)y-R-LXw#RZONc)7(^{mqKNs#<|1Eo;pP^#+pzRiCmP
+zE+Gen{I8R$nq|1Lz0u8;;|f>O+Z$Zbq>yRN8sFYHzP&N2Ot34lSC8XLTDj4gj&v&%
+z(aCr^)|%rqtFJcWnnavr<Pyp2!g0KtVN664_18UWu<>;wDSDMMk{o#z%UQ7Mwzcet
+zJ91z+QnXz$*QhOvdP|ck2UcaBIBKnXZa3V(u8D%%w0)aYmtQv~!@#?{|25lNX1we*
+z>J>3#OT=Tli)&)Ju`>NtAgEtGirHvEE$nlHEEHm0{uHY27~;ffiL(Bi<aW|-jvh^H
+z;m99oUwnp4K5eAuM)Pqa{xYXVa?wmQqdvy>Mm!T8&&5t;V%3~BmeID*^AzuGqbr{<
+z5_xX$d~$3XeR)0H%BKuH-)6KKspt4W!B6Okz2J)xBeD1=;#(MciZi7}f-XG)!ecxW
+zlgE;osGM|z8%aZdj)@5F{t#uq?mUXT;7`J8n5XeRI6lM2l-VTpm6SfDH}wcE;U393
+zBxt9GPe`X>6iu8ZDHclSNQ%-c^CR+PCu?gHQ#c>8vq{z$s2HSlk?a)QA~}Z?F{Tky
+z8l6iJ3Mcd=`O?XA3RSe>5z_dE*58uV&t&rpI&hoLeuwA|PNH3fqT&)$(N0Z70$M*+
+z^1p*SZ&@%Y(9pH__3e(Kb(A)D4Z9LM82le-l<6Ob+yQw35=v_!i=N(E8mSUs(kxHL
+zMxNo*-@-zXH0!&{7D2aKSReu;_&l_l!vf7#dG_-B8%@J^8;OsUd-tRnKH8h@eZ%DN
+zhl7t4dA2`$X7XG<%SWa;?vk4lIloNdTv<Y-fUDtm4byw8nF8I%brMln0`qYLH<ys`
+Tao$JKM~9DCC}=(|hQjQ>vQ(rr
+
+diff --git out/production/HelloKotlin/com/devcloud/leetcode/Two_sumKt.class out/production/HelloKotlin/com/devcloud/leetcode/Two_sumKt.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..7c5b50872dcc93b0b1ef960979bcc4e190728d18
+GIT binary patch
+literal 1227
+zc$|e)TW=Fr5dO}3?KK-iHqNa!NpKr3jzhC?ptQu0Hf>3}!igh{B3XVw$Lk|^<GrBW
+zv!;E^Lw^YmEwAtZRY54?k-x%!pq;f%NvlYe&di*-oSAQDM*H^tpRWO2$F~d@?7%a-
+zVqm*L+%;Vxq#bmHdH+%HAd0=aQUhZ!4*7taF86z8qjM;1vZfeRk2^lYT)AEU=x@r<
+z@q4wE1BT^#5cbSNAv+-jMke?DKyv8>bl(f)UhKLx%EH55ltq?dsUJw!@y)}5XF9$V
+zq0e2@@{@#-V@DcvhI#uZVfXiW$UQ+3Ry0n;aHU-TFUs0!xN^whtd0qsql%}0d^2$4
+z1f~XqA#=;|9l6DjDkqQgnAS0c8FI)+0kw!hE4M9crETRfhxx?$$-g?*{3VjY(@>-o
+zK`a?&N3fj0+$T(ukO}V9a#+CP8Jx!w!}KWu8cI~^VPbHp>uT9b;CzN<9iQSN19ONh
+zBF><+=`wxFSTw9KOx4GY-W8H}x#Tnj#T%q(C0N3!%}QseB4G;U?31ZmW!OAEn$eGs
+zbj46cVv6XTu4I*B!8krDD(h?`XDG#NUd=1(>U!$U<BVdY-#p1=k_;P+N?_tg;kv=y
+zAqECrj#h20PpwhEqy97G>w(SP10FiO<BIzUW0<TvzSxVsjtIw=vrWnE{w{ww)-T?R
+zed&0@@&``jkm;X2+5WhCRIwSvp)Gct<ju@T`CfG5-kqPNpj8V9Rbia!V3g>@dsLx7
+zO`1cWQa~CR(l<%_jqYiZKUDH({=no*OtoHMR(qwlQt3uZHMB-6ZA>&;8Dp|x6rZC|
+zPu*U9y|u9T7;~!&Yd6$qxG<|e$E9Bt_WNJ&o(|hzBVHnT4F)db3YA*H63WC`QVLmA
+zNZulv8$v0Nr%2J~@eRoxEaEo#CZN2>nub-z=CMTvjb;jMSmEnr#JEZEK&QF8y?<gL
+z`e;acrCIuL+tF7`)zXQO|M`FDmAYPCu3p`^xmndKcXVu19gC`8CA^=vk+QHhJSNsZ
+hXjKavxR$W%ZLkPm;6@u-gmi>2BV>o1PA0-ve*;!uB}xDQ
+
